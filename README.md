@@ -9,4 +9,6 @@ Key Features:
 
 Ideal for supply chain managers, operations teams, and business analysts to make data-driven decisions and improve overall inventory management strategies.
 
+https://m97khaled.github.io/Inventory-Analysis/
+
 ![Inventory-Analysis](Inventory_Analysis.png)

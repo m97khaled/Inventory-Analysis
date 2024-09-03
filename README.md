@@ -9,6 +9,8 @@ Key Features:
 
 Ideal for supply chain managers, operations teams, and business analysts to make data-driven decisions and improve overall inventory management strategies.
 
-https://m97khaled.github.io/Inventory-Analysis/
+
+
+Check out the [Inventory Analysis Project](https://m97khaled.github.io/Inventory-Analysis/) on Tableau Public.
 
 ![Inventory-Analysis](Inventory_Analysis.png)
